@@ -1,2 +1,4 @@
 var age = [12, 34, 54, 67, 234];
-console.log(age.length);
+console.log(age);
+age[1] = 50;
+console.log(age);
